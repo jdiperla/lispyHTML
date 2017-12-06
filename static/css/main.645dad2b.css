@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css?family=Muli:300);body{margin:0;padding:0;font-family:sans-serif}body{font-family:Muli,sans-serif;background:#f0f0f0;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}#article{position:relative;-webkit-animation-name:animate;-webkit-animation-duration:2s;animation-name:animate;animation-duration:2s}@-webkit-keyframes animate{0%{top:20px}to{top:0}}@keyframes animate{0%{top:20px}to{top:0}}
+/*# sourceMappingURL=main.645dad2b.css.map*/
