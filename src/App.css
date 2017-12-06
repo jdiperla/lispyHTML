@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300');
+body {
+  font-family: 'Muli', sans-serif;
+  background: #F0F0F0;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#article{position: relative;
+  -webkit-animation-name: animate; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
+  animation-name: animate;
+  animation-duration: 2s;
+
+}
+
+
+
+@keyframes animate {
+  0% {
+    top: 20px;
+  }
+  100% {
+    top: 0px;
+  }
+}
